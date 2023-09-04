@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/teaching-materials/static/js/main.f0fa334d.js",
+    "main.js": "/teaching-materials/static/js/main.c51884ff.js",
     "index.html": "/teaching-materials/index.html",
-    "main.f0fa334d.js.map": "/teaching-materials/static/js/main.f0fa334d.js.map"
+    "main.c51884ff.js.map": "/teaching-materials/static/js/main.c51884ff.js.map"
   },
   "entrypoints": [
-    "static/js/main.f0fa334d.js"
+    "static/js/main.c51884ff.js"
   ]
 }
